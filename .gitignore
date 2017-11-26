@@ -13,3 +13,6 @@ lib/*
 share/*
 build*
 ctags.txt
+.DS_Store
+flexi_Project.udb
+tools/.DS_Store
